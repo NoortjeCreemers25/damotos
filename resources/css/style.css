@@ -1,0 +1,33 @@
+h1{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("/Users/noortjecreemers/Documents/Projects/Project week 2 Dasmotos Arts and Crafts/resources/pictures/pattern.jpeg");
+  text-align: center;
+}
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.green{
+  background-color: mediumspringgreen;
+}
+
+.coral{
+  background-color: lightcoral;
+}
+
+.blue{
+  background-color: skyblue;
+}
+
+.price{
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
